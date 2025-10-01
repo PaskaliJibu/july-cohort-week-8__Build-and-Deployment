@@ -1,41 +1,41 @@
-# july-cohort-week-8__Build-and-Deployment
-🚀 Digital Agency Landing Page
+# Child Nutrition for Better Growth 🌱
 
-A fully responsive multi-page website template built with vanilla HTML, CSS, and JavaScript. This project replicates a modern digital agency landing page
-📂 Features
+This is a multipage responsive website project created with **HTML5, CSS3, and JavaScript**.  
+The website raises awareness about the importance of child nutrition for healthy growth.
 
-    ✅ Responsive layout – Works on mobile, tablet, and desktop
-    ✅ Gradient navigation & hero sections – Modern blended color scheme
-    ✅ Smooth testimonial carousel – Auto-sliding client feedback
-    ✅ Pure Vanilla Stack – No frameworks, no dependencies
+## 📂 Project Structure
+- `index.html` → Home page
+- `about.html` → About page with nutrition details
+- `contact.html` → Contact page with form validation
+- `styles.css` → Styling with responsive design
+- `script.js` → JavaScript for interactivity
+- `images/` → Folder for images (add your own if needed)
 
-📁 Project Structure
+## 🚀 Features
+- Responsive navigation and layout  
+- About page explaining child nutrition essentials  
+- Contact form with **HTML5 validation** and custom JS validation  
+- CSS hover effects and styling for a clean UI  
 
-/project
-  ├── index.html        # Landing page
-  ├── css/
-  │     └── style.css   # Main stylesheet
-  ├── js/
-  │     └── main.js     # Carousel & lightbox logic
-  └── images/           # Placeholder images
+## 📦 How to Run Locally
+1. Download or clone this repository.  
+2. Open `index.html` in your browser.  
 
-🛠️ Getting Started
-1. Clone the repo
+## 🌐 Deployment Instructions
+You can deploy this project for free using:
+- **GitHub Pages**  
+  1. Push project files to a GitHub repository.  
+  2. Go to **Settings → Pages → Deploy from branch**.  
+  3. Select the `main` branch and `/ (root)` folder.  
+  4. Save and access your live website URL.  
 
-git clone https://github.com/your-username/modern-agency-landing.git
-cd modern-agency-landing
+- **Netlify**  
+  1. Go to [https://www.netlify.com/](https://www.netlify.com/).  
+  2. Drag and drop your project folder to deploy instantly.  
 
-2. Open in browser
+- **Vercel**  
+  1. Go to [https://vercel.com/](https://vercel.com/).  
+  2. Import your GitHub repository and deploy.  
 
-Simply open index.html in your browser to preview the site. (No build tools required – it’s pure HTML/CSS/JS.)
-🎨 Customization
-
-    Update colors in css/style.css (look for --primary and --secondary variables).
-    Replace images in /images/ with your own.
-    Edit text content directly inside the .html files.
-
-🌐 Live Demo
-
-(You can add a GitHub Pages link here once deployed.)
-📜 License
-This project is licensed under the MIT License – feel free to use, modify, and share.
+## ✨ Author
+Created by **Paskali Yoel Jibu**  
